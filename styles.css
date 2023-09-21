@@ -4,13 +4,20 @@ h1{
    }
 
 table,td,th{
-   border: 2px solid black;
+   border: 2px  black;
+   border-style: dashed;
+   color: crimson;
+   background-color: blue;
 }
+table{
 
-th{
-   border: 2px solid blue;
+    border-style: solid;
 }
-.name{
-    color: cornsilk;
-    background-color: blue;
+th{
+   border: 2px dotted blue;
+}
+.a1{
+     background-color: aliceblue;
+     color: black;
+
 }
